@@ -7,7 +7,7 @@ the models in question are as follows:
     - Multinomial Naive Bayes
     - SVM
     
-Source data is included in this repository and all models are linked to this dataset as SMS_spam_dataset.
+Source data is included in this repository and all models are linked to this dataset as SMS_Spam_Dataset.
 
 Python notebook files correspond to each model (simple, NB, and SVM) with 3 cases for each.
 Case 1 uses no text preprocessing steps, Case 2 tokenizes the sms messages and removes stopwords
