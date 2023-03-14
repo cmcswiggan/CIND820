@@ -9,7 +9,7 @@ the models in question are as follows:
     
 Source data is included in this repository and all models are linked to this dataset as SMS_Spam_Dataset.
 
-Python notebook files correspond to each model (simple, NB, and SVM) with 3 cases for each.
+HTML and Python notebook files correspond to each model (simple, NB, and SVM) with 3 cases for each.
 Case 1 uses no text preprocessing steps, Case 2 tokenizes the sms messages and removes stopwords
 Case 3 includes the steps from Case 2 and lowercasing, special character and punctuation removal.
 
